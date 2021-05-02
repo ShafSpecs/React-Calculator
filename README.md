@@ -1,3 +1,8 @@
+# Reacr Calculator built with snowpack
+
+A simple react calculator with addition, subtraction, multiplication & division with an ON/OFF function. Nice, 'dull' CS S styles also implemented.
+My first try too at making a complete react project on my own!
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
